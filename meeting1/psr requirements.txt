@@ -1,0 +1,5 @@
+report on progress of project
+identify key issues and risks
+report on resource utilisation
+report on scope changes (if applicable)
+make recommendation to sponsor (if applicable)
