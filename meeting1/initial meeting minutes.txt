@@ -1,0 +1,16 @@
+project requirements 
+
+* get approval from legal 
+* the document itself needs to be updated 
+* sub documents - need to be reachable 
+* it needs search functionality 
+* bare in mind usability issues - where and when 
+* there are images and tables in the document 
+* 
+
+heidi - is our senior client - 
+
+craig - DXC is outsourced- to build the app in normal sercamstances 
+- 
+
+in contact with TONY - 
